@@ -1,0 +1,368 @@
+.beach {
+  top: 100px;
+  margin: 0 auto;
+  position: relative;
+  width: 600px;
+}
+
+.beach_chair1 {
+  bottom: -20px;
+  height: 150px;
+  left: 50px;
+  position: absolute;
+  width: 150px;
+}
+
+.beach_chair2 {
+  bottom: -20px;
+  height: 150px;
+  position: absolute;
+  right: 50px;
+  transform: scaleX(-1);
+  width: 150px;
+}
+
+.boatbox {
+  margin: 0 auto;
+  position: relative;
+  width: 600px;
+}
+
+.boat {
+  top: -50px;
+  height: 150px;
+  right: -100px;
+  position: absolute;
+  width: 150px;
+}
+
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.bottom-container {
+  background-color:#122050;
+  text-align: center;
+  height: 100px;
+}
+
+.coding {
+  height: 300px;
+  margin: 50px auto;
+  position: relative;
+  width: 800px;
+}
+
+.coding_icon {
+  background-color: #122050;
+  border-color: #fcbf1e;
+  border-width: 10px;
+  border-radius: 100%;
+  border-style: solid;
+  height: 200px;
+  top: 45px;
+  left: 0;
+  position: absolute;
+  width:200px;
+}
+
+.codingParagraphBox {
+  top: 0;
+  right: 0;
+  position: absolute;
+  text-align: left;
+}
+
+.codingParagraph {
+  text-align: left;
+  line-height: 2
+}
+
+.copyright {
+  color: #d63447;
+}
+
+div {
+  position: relative;
+
+}
+
+.div1 {
+  background-color: #122050;
+  height: 250px;
+}
+
+
+.div3 {
+  background-color: #d63447;
+  height: 200px;
+}
+
+.div4 {
+  background-color: #40bad5;
+  height: 150px;
+}
+
+.div5 {
+  background-color: #fcbf1e;
+  height: 100px;
+}
+
+.family {
+  height: 300px;
+  margin: 50px auto;
+  position: relative;
+  width: 800px;
+}
+
+.family_icon {
+  background-color: #122050;
+  border-color: #fcbf1e;
+  border-width: 10px;
+  border-radius: 100%;
+  border-style: solid;
+  height: 200px;
+  top: 45px;
+  left: 0;
+  position: absolute;
+  width:200px;
+}
+
+.familyParagraphBox {
+  top: 0;
+  right: 0;
+  position: absolute;
+  text-align: left;
+}
+
+.familyParagraph {
+  text-align: left;
+  line-height: 2
+}
+
+.footer-link {
+  color: #fcbf1e;
+  line-height: 3;
+  margin: 50px 50px;
+  text-decoration: none;
+  top: 30px;
+}
+
+.gaming {
+  height: 300px;
+  margin: 50px auto;
+  position: relative;
+  width: 800px;
+}
+
+.game_icon {
+  background-color: #122050;
+  border-color: #fcbf1e;
+  border-width: 10px;
+  border-radius: 100%;
+  border-style: solid;
+  height: 200px;
+  top: 45px;
+  right: 0;
+  position: absolute;
+  width:200px;
+}
+
+.gamingParagraphBox {
+  top: 0;
+  left: 0;
+  position: absolute;
+  text-align: left;
+}
+
+.gamingParagraph {
+  text-align: left;
+  line-height: 2
+}
+
+
+
+h2 {
+  color: #fcbf1e;
+  font-family: 'Rubik'; font-size: 3rem;
+  margin: 0;
+}
+
+h3 {
+  color: #d63447;
+  font-family: 'Rubik'; font-size: 2rem;
+  margin: 0;
+}
+
+hr {
+  color: #40bad5;
+  border-style: dotted hidden hidden hidden;
+  border-width: 10px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  width: 800px
+
+}
+
+.headline {
+  font-family: 'Montez'; font-size: 5rem;
+  padding: 50px;
+}
+
+.middleOfPage {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.music {
+  height: 300px;
+  margin: 50px auto;
+  position: relative;
+  width: 800px;
+}
+
+.music_icon {
+  background-color: white;
+  border-color: #fcbf1e;
+  border-width: 10px;
+  border-radius: 100%;
+  border-style: solid;
+  height: 200px;
+  top: 45px;
+  left: 0;
+  position: absolute;
+  width:200px;
+}
+
+.musicParagraphBox {
+  top: 0;
+  right: 0;
+  position: absolute;
+  text-align: left;
+}
+
+.musicParagraph {
+  text-align: left;
+  line-height: 2
+}
+
+p {
+  display: inline-block;
+  font-family: 'Roboto'; font-size: 1rem;
+  line-height: 1.5;
+  width: 500px;
+}
+
+.palm_tree {
+  bottom: -50px;
+  Height: 550px;
+  left: -400px;
+  position: absolute;
+  width: 550px;
+}
+
+.seagull {
+  filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(314deg) brightness(102%) contrast(104%);
+  height: 100px;
+  position: absolute;
+  width: 100px;
+}
+
+.seagullbox {
+  margin: 0 auto;
+  position: relative;
+  right: 0;
+  width: 600px;
+}
+
+.seagull1 {
+  right: -250px;
+}
+
+.seagull2 {
+  right: -150px;
+  top: 60px;
+}
+
+.seagull3 {
+  right: -50px;
+  top: 30px;
+}
+
+.skill-row1 {
+  margin: 0 auto;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  text-align: left;
+}
+
+.skill-row2 {
+  margin: 0 auto;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  text-align: right;
+}
+
+.skills {
+  text-align: center;
+  line-height: 2;
+}
+.subtitle {
+  font-family: 'Rubik';font-size: 2rem;
+}
+
+.sunbox {
+  margin: 0 auto;
+  position: relative;
+  width: 350px;
+}
+
+.sun {
+  display: block;
+  height: 350px;
+  position: absolute;
+  top: -190px;
+  width: 350px;
+}
+
+.teaching {
+  height: 300px;
+  margin: 50px auto;
+  position: relative;
+  width: 800px;
+}
+
+.teaching_icon {
+  background-color: #122050;
+  border-color: #fcbf1e;
+  border-width: 10px;
+  border-radius: 100%;
+  border-style: solid;
+  height: 200px;
+  top: 45px;
+  right: 0;
+  position: absolute;
+  width:200px;
+}
+
+.teachingParagraphBox {
+  top: 0;
+  left: 0;
+  width: 570px;
+  position: absolute;
+  text-align: left;
+}
+
+.teachingParagraph {
+  text-align: left;
+  line-height: 2
+}
+
+
+.topHeader {
+  color: #fcbf1e;
+  margin: 0;
+  top: 50px;
+}

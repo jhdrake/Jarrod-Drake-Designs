@@ -38,7 +38,11 @@
 
 
 body {
+  min-width: 1000px;
+  height: 100%;
   margin: 0;
+  padding: 0;
+  overflow-x: hidden;
   text-align: center;
 }
 
@@ -145,7 +149,7 @@ div {
 .footer-link {
   color: #fcbf1e;
   line-height: 3;
-  margin: 50px 50px;
+  padding: 50px 50px;
   text-decoration: none;
   top: 30px;
 }
@@ -181,7 +185,6 @@ div {
   text-align: left;
   line-height: 2
 }
-
 
 
 h2 {
@@ -273,7 +276,6 @@ p {
 .seagullbox {
   margin: 0 auto;
   position: relative;
-  right: 0;
   width: 600px;
 }
 
